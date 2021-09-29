@@ -4,7 +4,7 @@
 Programme Python pour recuperer par le port serie USB les donnes en provenance d'un Arduino
 et les sauvegader dans un fichier texte
 
-(c) Frederic Salach - 26/09/2021
+Frederic Salach - 26/09/2021
 """
 
 #Importation modules Python
