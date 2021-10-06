@@ -1,2 +1,2 @@
 # arduino_data_acquisition
-Python and Arduino script to perform data acquisition from different types of sensors.
+Python and Arduino scripts to perform data acquisition from different types of sensors.
